@@ -1,4 +1,4 @@
-# Environment and Dependency Setup
+# Neutral Atom QUBO Example
 
 ### Team: Psychics
 #### Challenge: Pasqal Neutral Atom Optimization
